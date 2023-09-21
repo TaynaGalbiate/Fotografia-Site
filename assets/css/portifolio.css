@@ -1,0 +1,97 @@
+.carousel-control-prev {
+ width: 40px;
+ height: 80px;
+ margin-top: 300px;
+
+}
+
+.carousel-control-next {
+ width: 40px;
+ height: 80px;
+ margin-top: 300px;
+}
+
+.titulo {
+ margin-left: 10px;
+}
+
+@media screen and (max-width:1443px) {
+ .carousel-control-next {
+  width: 40px;
+  height: 400px;
+  margin-top: 10px;
+ }
+}
+
+@media screen and (max-width:1443px) {
+ .carousel-control-prev {
+  width: 40px;
+  height: 400px;
+  margin-top: 10px;
+ }
+}
+
+@media screen and (max-width:1000px) {
+ .carousel-control-next {
+  width: 30px;
+  height: 350px;
+  margin-top: 10px;
+ }
+}
+
+@media screen and (max-width:1000px) {
+ .carousel-control-prev {
+  width: 30px;
+  height: 350px;
+  margin-top: 10px;
+ }
+}
+
+
+@media screen and (max-width:850px) {
+ .carousel-control-next {
+  width: 30px;
+  height: 250px;
+  margin-top: 10px;
+ }
+}
+
+@media screen and (max-width:850px) {
+ .carousel-control-prev {
+  width: 30px;
+  height: 250px;
+  margin-top: 10px;
+ }
+}
+
+@media screen and (max-width:700px) {
+ .carousel-control-next {
+  width: 30px;
+  height: 180px;
+  margin-top: 10px;
+ }
+}
+
+@media screen and (max-width:700px) {
+ .carousel-control-prev {
+  width: 30px;
+  height: 180px;
+  margin-top: 10px;
+ }
+}
+
+@media screen and (max-width:500px) {
+ .carousel-control-next {
+  width: 30px;
+  height: 130px;
+  margin-top: 10px;
+ }
+}
+
+@media screen and (max-width:500px) {
+ .carousel-control-prev {
+  width: 30px;
+  height: 130px;
+  margin-top: 10px;
+ }
+}
